@@ -1,2 +1,2 @@
 # Dicee-challenge
-->Alternate for a coin toss 🎲 ->Skills: HTML, CSS, JavaScript
+->Alternate for a coin toss 🎲 ->Tech Stack: HTML, CSS, JavaScript
